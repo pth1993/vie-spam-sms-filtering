@@ -1,0 +1,4 @@
+src/corpus.txt
+*.pyc
+.idea/
+.DS_Store
