@@ -50,8 +50,10 @@ The simple way to install them is using pip:
 
 The input data's format is describe in the following table.
 
-| Spam | DatNen ThoCu 1OO% Chi 119tr/Nen, SoDo rieng, DoiDien KhuCongNghiep, BenhVien, TruongDaiHoc, KhuDanCu SamUat, gop 15th LS 0%. LH: 09497 59978. |
-| Ham  | Tối nay 7h30 half life phố Phó Đức Chính nha anh em. Quán cũ :3                                                                               |
+| Label | Message                                                                                                                                       |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------------|
+| Spam  | DatNen ThoCu 1OO% Chi 119tr/Nen, SoDo rieng, DoiDien KhuCongNghiep, BenhVien, TruongDaiHoc, KhuDanCu SamUat, gop 15th LS 0%. LH: 09497 59978. |
+| Ham   | Tối nay 7h30 half life phố Phó Đức Chính nha anh em. Quán cũ :3                                                                               |                                                                        |
 
 ### 3.2. Command-line Usage
 
